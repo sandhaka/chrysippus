@@ -1,6 +1,7 @@
 <samp>
 
 # Chrysippus | Propositional Knowledge-base
+[![.NET](https://github.com/sandhaka/chrysippus/actions/workflows/dotnet.yml/badge.svg)](https://github.com/sandhaka/chrysippus/actions/workflows/dotnet.yml)
 > Experimental project
 ## Overview
 Knowledge representation.
